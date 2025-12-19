@@ -1,0 +1,9 @@
+the,DET
+the,NOUN
+child,NOUN
+runs,VERB
+quickly,ADV
+to,PREP
+the,DET
+large,ADJ
+house,NOUN
