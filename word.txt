@@ -7,3 +7,10 @@ to,PREP
 the,DET
 large,ADJ
 house,NOUN
+i,NOUN
+saw,VERB
+a,DET
+girl,NOUN
+with,PREP
+a,DET
+telescope,NOUN
