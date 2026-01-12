@@ -1,6 +1,6 @@
 #!/bin/bash
 
-SENTENCE="i saw a girl with a telescope"
+SENTENCE="fruit flies like an apple"
 
 make clean
 make
